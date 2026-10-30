@@ -1,0 +1,1 @@
+Add your own photo in this folder and name it profile.jpg. The website will display it automatically.
